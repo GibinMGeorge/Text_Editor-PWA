@@ -35,4 +35,4 @@ The app is being delpoyed to Render.
 
 * The URL of the GitHub repository - https://github.com/GibinMGeorge/Text_Editor-PWA
 
-* The URL of the Deployed Application - 
+* The URL of the Deployed Application - https://text-editor-pwa-i0bi.onrender.com
